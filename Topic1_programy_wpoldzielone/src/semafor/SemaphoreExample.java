@@ -1,3 +1,5 @@
+package semafor;
+
 import java.util.concurrent.Semaphore;
 
 // That is an example PRINTER program to explain
